@@ -4,7 +4,7 @@ public class SamuelAlmeida {
     int atributo2 = 200;
     int atributo3 = 300;
 
-    int soma() {
-        return atributo3 = this.atributo1 + this.atributo2;
+    void soma() {
+        atributo3 = this.atributo1 + this.atributo2;
     }
 }
